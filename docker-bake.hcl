@@ -1,5 +1,5 @@
 variable "XX_REPO" {
-    default = "tonistiigi/xx"
+    default = "ikerian/xx"
 }
 
 variable "TEST_BASE_TYPE" {
